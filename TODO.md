@@ -1,5 +1,5 @@
 ## Vue
 
-- [ ] read a little about the framework
+- [x] read a little about the framework
 - [ ] look some beginners code examples
-- [ ] directives and hooks 
+- [ ] directives and hooks
