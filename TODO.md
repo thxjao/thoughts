@@ -1,5 +1,4 @@
-## Vue
+## Typescript
 
-- [x] read a little about the framework
+- [x] read a little about the language
 - [ ] look some beginners code examples
-- [ ] directives and hooks
